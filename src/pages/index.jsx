@@ -20,9 +20,9 @@ export default function Home() {
           content="Your meetings deserve 100% of your attention. Focus on communication, let us take care of the rest."
         />
       </Head>
-      <div className='bg-gradient-to-r from-sky-100 to-indigo-100'>
+      <div className='bg-gradient-to-r from-sky-200 to-indigo-200'>
       <Header />
-      <main className='bg-gradient-to-r from-sky-100 to-indigo-100'>
+      <main className='bg-gradient-to-r from-sky-200 to-indigo-200'>
       
       
       <Hero />
